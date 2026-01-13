@@ -8,6 +8,7 @@ Need help with Ackify? Here’s how to get support:
 
 * Check command usage with `/help` (if enabled)
 * Ask in the official support server
+  https://discord.gg/wSU7W9M566
 * Contact a team member if available
 
 ---
