@@ -1,6 +1,6 @@
 # Ackify
 
-Ackify is a Discord bot designed to help communities manage important announcements and track task completion in a simple, reliable way.
+Ackify is a Discord bot designed to help communities manage important announcements, track task completion, and do basic moderation in a simple, reliable way.
 
 It focuses on two core features:
 
