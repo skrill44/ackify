@@ -29,3 +29,11 @@
 /settings setannounce channel:<channel>
 /settings toggleack on|off
 /settings adminonly on|off
+
+### 📝 Logging
+
+To enable moderation logs:
+
+/settings setlog channel:#mod-logs
+
+All bans, kicks, and timeouts will appear there automatically.
